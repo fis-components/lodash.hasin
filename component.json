@@ -1,0 +1,13 @@
+{
+    "name": "lodash.hasin",
+    "description": "The lodash method `_.hasIn` exported as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash._baseslice": "^4.0.0",
+        "lodash.get": "^4.0.0"
+    },
+    "main": "index.js",
+    "version": "4.0.0"
+}
