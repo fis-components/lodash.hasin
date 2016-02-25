@@ -6,8 +6,8 @@
     "reposType": "npm",
     "dependencies": {
         "lodash._baseslice": "^4.0.0",
-        "lodash.get": "^4.0.0"
+        "lodash.tostring": "^4.0.0"
     },
     "main": "index.js",
-    "version": "4.1.1"
+    "version": "4.2.0"
 }
